@@ -48,8 +48,8 @@ IV. Очистка данных.
 
 
 ### Результат
-[Ноутбук с выполненными заданиями и выводами.](https://github.com/RimusPRO/project_1/blob/RimusPRO-patch-1/Project_1_Head_Hunter.ipynb))
-[Загруженная на GoggleДиск папка с проектом.](https://drive.google.com/drive/folders/1B6kGkPImTyp0dhWTGArLBH-WqJtSpkVo?usp=sharing))
+[Ноутбук с выполненными заданиями и выводами.](https://github.com/RimusPRO/project_1/blob/RimusPRO-patch-1/Project_1_Head_Hunter.ipynb)
+[Загруженная на GoggleДиск папка с проектом.](https://drive.google.com/drive/folders/1B6kGkPImTyp0dhWTGArLBH-WqJtSpkVo?usp=sharing)
 
 
 :arrow_up:[ к оглавлению](https://github.com/RimusPRO/project_1/blob/RimusPRO-patch-1/README.md#Оглавление)
